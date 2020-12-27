@@ -14,6 +14,10 @@ namespace Paycompute.Entity
         public string FirstName { get; set; }
         [MaxLength(50)]
         public string MiddleName { get; set; }
+
+        [Required, MaxLength(50)]
+        public string LastName { get; set; }
+        
         public string FullName { get; set; }
 
         public string Gender { get; set; }
