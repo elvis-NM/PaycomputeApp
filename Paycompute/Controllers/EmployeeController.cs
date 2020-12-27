@@ -90,5 +90,86 @@ namespace Paycompute.Controllers
             }
             return View();
         }
+
+
+       
+        public IActionResult Edit(int id)
+        {
+            var employee = _employeeService.GetById(id);
+            if(employee == null)
+            {
+                return NotFound();
+            }
+            var model = new EmployeeEditViewModel()
+            {
+                Id = employee.Id,
+                EmployeeNo = employee.EmployeeNo,
+                FirstName = employee.FirstName,
+                MiddleName = employee.MiddleName,
+                LastName = employee.LastName,
+                Gender = employee.Gender,
+                Email = employee.Email,
+                DOB = employee.DOB,
+                DateJoined = employee.DateJoined,
+                SocialSecurityNo = employee.SocialSecurityNo,
+                PaymentMethod = employee.PaymentMethod,
+                StudentLoan = employee.StudentLoan,
+                UnionMemeber = employee.UnionMemeber,
+                Address = employee.Address,
+                City = employee.City,
+                Phone = employee.Phone,
+                Zipcode = employee.Zipcode,
+                Designation = employee.Designation,
+
+            };
+            return View(model);
+        }
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> Edit(EmployeeEditViewModel model)
+        {
+            if (ModelState.IsValid)
+            {
+                var employee = _employeeService.GetById(model.Id);
+                if(employee == null)
+                {
+                    return NotFound();
+                }
+                employee.EmployeeNo = model.EmployeeNo;
+                employee.FirstName = model.FirstName;
+                employee.MiddleName = model.MiddleName;
+                employee.LastName = model.LastName;
+                employee.FullName = model.FullName;
+                employee.Gender = model.Gender;
+                employee.Email = model.Email;
+                employee.DOB = model.DOB;
+                employee.DateJoined = model.DateJoined;
+                employee.SocialSecurityNo = model.SocialSecurityNo;
+                employee.PaymentMethod = model.PaymentMethod;
+                employee.StudentLoan = model.StudentLoan;
+                employee.UnionMemeber = model.UnionMemeber;
+                employee.Address = model.Address;
+                employee.City = model.City;
+                employee.Phone = model.Phone;
+                employee.Zipcode = model.Zipcode;
+                employee.Designation = model.Designation;
+                if(model.ImageUrl != null && model.ImageUrl.Length> 0)
+                {
+                    var uploadDir = @"images/employee";
+                    var fileName = Path.GetFileNameWithoutExtension(model.ImageUrl.FileName);
+                    var extension = Path.GetExtension(model.ImageUrl.FileName);
+                    var webRootPath = _hostingEnvironment.ContentRootPath;
+                    fileName = DateTime.UtcNow.ToString("yymmssfff") + fileName + extension;
+                    var path = Path.Combine(webRootPath, uploadDir, fileName);
+                    await model.ImageUrl.CopyToAsync(new FileStream(path, FileMode.Create));
+                    employee.ImageUrl = "/" + uploadDir + "/" + fileName;
+
+                }
+                await _employeeService.UpdateAsync(employee);
+                return RedirectToAction(nameof(Index));
+            }
+            return View();
+        }
     }
 }
