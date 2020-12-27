@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yOwC2Q9cQsg9EcLwakCrNrRiuT/jqle3Z+Vvyn5Gnn4TKenkumZMZXTITcDTdDlXRbbYDrEwUdSthjcdJqaypQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\emakia\\source\\repos\\Paycompute.Entity\\Paycompute.Entity.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\emakia\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
