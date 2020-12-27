@@ -19,12 +19,17 @@ namespace Paycompute.Controllers
         public IActionResult Index()
         {
             var employees = _employeeService.GetAll()
-                .Select(employee => new EmployeeIndexViewModel)
+                .Select(employee => new EmployeeIndexViewModel
 
                 {
-
-                }
-            return View();
+                    Id = employee.Id,
+                    EmployeeNo = employee.EmployeeNo,
+                    ImageUrl = employee.FullName,
+                    Gender = employee.Designation,
+                    City = employee.City,
+                    DateJoined = employee.DateJoined
+                }).ToList();
+            return View(employees);
         }
     }
 }
