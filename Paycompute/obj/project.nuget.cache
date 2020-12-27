@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "j6FFUybKbzDumJp3C1RJdMt7aDWSbAnk+uiGvJTCI7jSVdk8kBtMVH6R9rC3mOIHCu6mpxyxw+D6YIucOKCLYg==",
+  "dgSpecHash": "/kcEgnyZnTIFBsvm97bhSClS1TzkJwRssop26Uwb+ae+ZX61rb5J0VSSizhVIdS1XbMCSacxKjRqBindVHORKQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\emakia\\source\\repos\\PaycomputeApp\\Paycompute\\Paycompute.csproj",
   "expectedPackageFiles": [
@@ -33,7 +33,7 @@
     "C:\\Users\\emakia\\.nuget\\packages\\microsoft.entityframeworkcore.design\\5.0.1\\microsoft.entityframeworkcore.design.5.0.1.nupkg.sha512",
     "C:\\Users\\emakia\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\5.0.1\\microsoft.entityframeworkcore.relational.5.0.1.nupkg.sha512",
     "C:\\Users\\emakia\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\5.0.1\\microsoft.entityframeworkcore.sqlserver.5.0.1.nupkg.sha512",
-    "C:\\Users\\emakia\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\3.1.8\\microsoft.entityframeworkcore.tools.3.1.8.nupkg.sha512",
+    "C:\\Users\\emakia\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\5.0.1\\microsoft.entityframeworkcore.tools.5.0.1.nupkg.sha512",
     "C:\\Users\\emakia\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\5.0.0\\microsoft.extensions.caching.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\emakia\\.nuget\\packages\\microsoft.extensions.caching.memory\\5.0.0\\microsoft.extensions.caching.memory.5.0.0.nupkg.sha512",
     "C:\\Users\\emakia\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
