@@ -15,3 +15,9 @@ C:\Users\emakia\source\repos\Paycompute.Services\obj\Debug\netcoreapp3.1\Paycomp
 C:\Users\emakia\source\repos\Paycompute.Services\bin\Debug\netcoreapp3.1\Paycompute.Services.runtimeconfig.json
 C:\Users\emakia\source\repos\Paycompute.Services\bin\Debug\netcoreapp3.1\Paycompute.Services.runtimeconfig.dev.json
 C:\Users\emakia\source\repos\Paycompute.Services\obj\Debug\netcoreapp3.1\Paycompute.Services.genruntimeconfig.cache
+C:\Users\emakia\source\repos\PaycomputeApp\Paycompute.Services\obj\Debug\netcoreapp3.1\Paycompute.Services.csprojAssemblyReference.cache
+C:\Users\emakia\source\repos\PaycomputeApp\Paycompute.Services\obj\Debug\netcoreapp3.1\Paycompute.Services.AssemblyInfoInputs.cache
+C:\Users\emakia\source\repos\PaycomputeApp\Paycompute.Services\obj\Debug\netcoreapp3.1\Paycompute.Services.AssemblyInfo.cs
+C:\Users\emakia\source\repos\PaycomputeApp\Paycompute.Services\obj\Debug\netcoreapp3.1\Paycompute.Services.csproj.CoreCompileInputs.cache
+C:\Users\emakia\source\repos\PaycomputeApp\Paycompute.Services\obj\Debug\netcoreapp3.1\Paycompute.Services.dll
+C:\Users\emakia\source\repos\PaycomputeApp\Paycompute.Services\obj\Debug\netcoreapp3.1\Paycompute.Services.pdb

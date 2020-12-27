@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\emakia\\source\\repos\\Paycompute\\Paycompute.csproj": {}
+    "C:\\Users\\emakia\\source\\repos\\PaycomputeApp\\Paycompute\\Paycompute.csproj": {}
   },
   "projects": {
-    "C:\\Users\\emakia\\source\\repos\\Paycompute.Entity\\Paycompute.Entity.csproj": {
+    "C:\\Users\\emakia\\source\\repos\\PaycomputeApp\\Paycompute.Entity\\Paycompute.Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\emakia\\source\\repos\\Paycompute.Entity\\Paycompute.Entity.csproj",
+        "projectUniqueName": "C:\\Users\\emakia\\source\\repos\\PaycomputeApp\\Paycompute.Entity\\Paycompute.Entity.csproj",
         "projectName": "Paycompute.Entity",
-        "projectPath": "C:\\Users\\emakia\\source\\repos\\Paycompute.Entity\\Paycompute.Entity.csproj",
+        "projectPath": "C:\\Users\\emakia\\source\\repos\\PaycomputeApp\\Paycompute.Entity\\Paycompute.Entity.csproj",
         "packagesPath": "C:\\Users\\emakia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\emakia\\source\\repos\\Paycompute.Entity\\obj\\",
+        "outputPath": "C:\\Users\\emakia\\source\\repos\\PaycomputeApp\\Paycompute.Entity\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -68,14 +68,14 @@
         }
       }
     },
-    "C:\\Users\\emakia\\source\\repos\\Paycompute.Persistence\\Paycompute.Persistence.csproj": {
+    "C:\\Users\\emakia\\source\\repos\\PaycomputeApp\\Paycompute.Persistence\\Paycompute.Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\emakia\\source\\repos\\Paycompute.Persistence\\Paycompute.Persistence.csproj",
+        "projectUniqueName": "C:\\Users\\emakia\\source\\repos\\PaycomputeApp\\Paycompute.Persistence\\Paycompute.Persistence.csproj",
         "projectName": "Paycompute.Persistence",
-        "projectPath": "C:\\Users\\emakia\\source\\repos\\Paycompute.Persistence\\Paycompute.Persistence.csproj",
+        "projectPath": "C:\\Users\\emakia\\source\\repos\\PaycomputeApp\\Paycompute.Persistence\\Paycompute.Persistence.csproj",
         "packagesPath": "C:\\Users\\emakia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\emakia\\source\\repos\\Paycompute.Persistence\\obj\\",
+        "outputPath": "C:\\Users\\emakia\\source\\repos\\PaycomputeApp\\Paycompute.Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -96,8 +96,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\emakia\\source\\repos\\Paycompute.Entity\\Paycompute.Entity.csproj": {
-                "projectPath": "C:\\Users\\emakia\\source\\repos\\Paycompute.Entity\\Paycompute.Entity.csproj"
+              "C:\\Users\\emakia\\source\\repos\\PaycomputeApp\\Paycompute.Entity\\Paycompute.Entity.csproj": {
+                "projectPath": "C:\\Users\\emakia\\source\\repos\\PaycomputeApp\\Paycompute.Entity\\Paycompute.Entity.csproj"
               }
             }
           }
@@ -152,14 +152,14 @@
         }
       }
     },
-    "C:\\Users\\emakia\\source\\repos\\Paycompute.Services\\Paycompute.Services.csproj": {
+    "C:\\Users\\emakia\\source\\repos\\PaycomputeApp\\Paycompute.Services\\Paycompute.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\emakia\\source\\repos\\Paycompute.Services\\Paycompute.Services.csproj",
+        "projectUniqueName": "C:\\Users\\emakia\\source\\repos\\PaycomputeApp\\Paycompute.Services\\Paycompute.Services.csproj",
         "projectName": "Paycompute.Services",
-        "projectPath": "C:\\Users\\emakia\\source\\repos\\Paycompute.Services\\Paycompute.Services.csproj",
+        "projectPath": "C:\\Users\\emakia\\source\\repos\\PaycomputeApp\\Paycompute.Services\\Paycompute.Services.csproj",
         "packagesPath": "C:\\Users\\emakia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\emakia\\source\\repos\\Paycompute.Services\\obj\\",
+        "outputPath": "C:\\Users\\emakia\\source\\repos\\PaycomputeApp\\Paycompute.Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -180,11 +180,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\emakia\\source\\repos\\Paycompute.Entity\\Paycompute.Entity.csproj": {
-                "projectPath": "C:\\Users\\emakia\\source\\repos\\Paycompute.Entity\\Paycompute.Entity.csproj"
+              "C:\\Users\\emakia\\source\\repos\\PaycomputeApp\\Paycompute.Entity\\Paycompute.Entity.csproj": {
+                "projectPath": "C:\\Users\\emakia\\source\\repos\\PaycomputeApp\\Paycompute.Entity\\Paycompute.Entity.csproj"
               },
-              "C:\\Users\\emakia\\source\\repos\\Paycompute.Persistence\\Paycompute.Persistence.csproj": {
-                "projectPath": "C:\\Users\\emakia\\source\\repos\\Paycompute.Persistence\\Paycompute.Persistence.csproj"
+              "C:\\Users\\emakia\\source\\repos\\PaycomputeApp\\Paycompute.Persistence\\Paycompute.Persistence.csproj": {
+                "projectPath": "C:\\Users\\emakia\\source\\repos\\PaycomputeApp\\Paycompute.Persistence\\Paycompute.Persistence.csproj"
               }
             }
           }
@@ -231,14 +231,14 @@
         }
       }
     },
-    "C:\\Users\\emakia\\source\\repos\\Paycompute\\Paycompute.csproj": {
+    "C:\\Users\\emakia\\source\\repos\\PaycomputeApp\\Paycompute\\Paycompute.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\emakia\\source\\repos\\Paycompute\\Paycompute.csproj",
+        "projectUniqueName": "C:\\Users\\emakia\\source\\repos\\PaycomputeApp\\Paycompute\\Paycompute.csproj",
         "projectName": "Paycompute",
-        "projectPath": "C:\\Users\\emakia\\source\\repos\\Paycompute\\Paycompute.csproj",
+        "projectPath": "C:\\Users\\emakia\\source\\repos\\PaycomputeApp\\Paycompute\\Paycompute.csproj",
         "packagesPath": "C:\\Users\\emakia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\emakia\\source\\repos\\Paycompute\\obj\\",
+        "outputPath": "C:\\Users\\emakia\\source\\repos\\PaycomputeApp\\Paycompute\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -259,11 +259,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\emakia\\source\\repos\\Paycompute.Entity\\Paycompute.Entity.csproj": {
-                "projectPath": "C:\\Users\\emakia\\source\\repos\\Paycompute.Entity\\Paycompute.Entity.csproj"
+              "C:\\Users\\emakia\\source\\repos\\PaycomputeApp\\Paycompute.Entity\\Paycompute.Entity.csproj": {
+                "projectPath": "C:\\Users\\emakia\\source\\repos\\PaycomputeApp\\Paycompute.Entity\\Paycompute.Entity.csproj"
               },
-              "C:\\Users\\emakia\\source\\repos\\Paycompute.Services\\Paycompute.Services.csproj": {
-                "projectPath": "C:\\Users\\emakia\\source\\repos\\Paycompute.Services\\Paycompute.Services.csproj"
+              "C:\\Users\\emakia\\source\\repos\\PaycomputeApp\\Paycompute.Services\\Paycompute.Services.csproj": {
+                "projectPath": "C:\\Users\\emakia\\source\\repos\\PaycomputeApp\\Paycompute.Services\\Paycompute.Services.csproj"
               }
             }
           }

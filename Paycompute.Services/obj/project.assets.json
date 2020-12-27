@@ -5959,11 +5959,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\emakia\\source\\repos\\Paycompute.Services\\Paycompute.Services.csproj",
+      "projectUniqueName": "C:\\Users\\emakia\\source\\repos\\PaycomputeApp\\Paycompute.Services\\Paycompute.Services.csproj",
       "projectName": "Paycompute.Services",
-      "projectPath": "C:\\Users\\emakia\\source\\repos\\Paycompute.Services\\Paycompute.Services.csproj",
+      "projectPath": "C:\\Users\\emakia\\source\\repos\\PaycomputeApp\\Paycompute.Services\\Paycompute.Services.csproj",
       "packagesPath": "C:\\Users\\emakia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\emakia\\source\\repos\\Paycompute.Services\\obj\\",
+      "outputPath": "C:\\Users\\emakia\\source\\repos\\PaycomputeApp\\Paycompute.Services\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -5984,11 +5984,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\emakia\\source\\repos\\Paycompute.Entity\\Paycompute.Entity.csproj": {
-              "projectPath": "C:\\Users\\emakia\\source\\repos\\Paycompute.Entity\\Paycompute.Entity.csproj"
+            "C:\\Users\\emakia\\source\\repos\\PaycomputeApp\\Paycompute.Entity\\Paycompute.Entity.csproj": {
+              "projectPath": "C:\\Users\\emakia\\source\\repos\\PaycomputeApp\\Paycompute.Entity\\Paycompute.Entity.csproj"
             },
-            "C:\\Users\\emakia\\source\\repos\\Paycompute.Persistence\\Paycompute.Persistence.csproj": {
-              "projectPath": "C:\\Users\\emakia\\source\\repos\\Paycompute.Persistence\\Paycompute.Persistence.csproj"
+            "C:\\Users\\emakia\\source\\repos\\PaycomputeApp\\Paycompute.Persistence\\Paycompute.Persistence.csproj": {
+              "projectPath": "C:\\Users\\emakia\\source\\repos\\PaycomputeApp\\Paycompute.Persistence\\Paycompute.Persistence.csproj"
             }
           }
         }

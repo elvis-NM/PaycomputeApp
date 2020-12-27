@@ -98,3 +98,13 @@ C:\Users\emakia\source\repos\Paycompute\obj\Debug\netcoreapp3.1\Paycompute.dll
 C:\Users\emakia\source\repos\Paycompute\obj\Debug\netcoreapp3.1\Paycompute.pdb
 C:\Users\emakia\source\repos\Paycompute\obj\Debug\netcoreapp3.1\Paycompute.genruntimeconfig.cache
 C:\Users\emakia\source\repos\Paycompute\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\emakia\source\repos\PaycomputeApp\Paycompute\obj\Debug\netcoreapp3.1\Paycompute.csprojAssemblyReference.cache
+C:\Users\emakia\source\repos\PaycomputeApp\Paycompute\obj\Debug\netcoreapp3.1\Paycompute.AssemblyInfoInputs.cache
+C:\Users\emakia\source\repos\PaycomputeApp\Paycompute\obj\Debug\netcoreapp3.1\Paycompute.AssemblyInfo.cs
+C:\Users\emakia\source\repos\PaycomputeApp\Paycompute\obj\Debug\netcoreapp3.1\Paycompute.csproj.CoreCompileInputs.cache
+C:\Users\emakia\source\repos\PaycomputeApp\Paycompute\obj\Debug\netcoreapp3.1\Paycompute.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\emakia\source\repos\PaycomputeApp\Paycompute\obj\Debug\netcoreapp3.1\Paycompute.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\emakia\source\repos\PaycomputeApp\Paycompute\obj\Debug\netcoreapp3.1\Paycompute.RazorAssemblyInfo.cache
+C:\Users\emakia\source\repos\PaycomputeApp\Paycompute\obj\Debug\netcoreapp3.1\Paycompute.RazorAssemblyInfo.cs
+C:\Users\emakia\source\repos\PaycomputeApp\Paycompute\obj\Debug\netcoreapp3.1\Paycompute.dll
+C:\Users\emakia\source\repos\PaycomputeApp\Paycompute\obj\Debug\netcoreapp3.1\Paycompute.pdb

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xFxGRtILtbBftnrWnFBzMXD0dWdtHw3H1qQA+Bi1n6Bpxpk8QOcjdKihExqgkio/dIqwbTYQ5he6V9XwSF9X1g==",
+  "dgSpecHash": "j6FFUybKbzDumJp3C1RJdMt7aDWSbAnk+uiGvJTCI7jSVdk8kBtMVH6R9rC3mOIHCu6mpxyxw+D6YIucOKCLYg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\emakia\\source\\repos\\Paycompute\\Paycompute.csproj",
+  "projectFilePath": "C:\\Users\\emakia\\source\\repos\\PaycomputeApp\\Paycompute\\Paycompute.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\emakia\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\emakia\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",

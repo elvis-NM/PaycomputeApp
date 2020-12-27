@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ivxyPyh9Qov7gsxM+Kyis/lVJ7AoP/NO1sSB3Lwy9NlalSHf0f4h/V+sgmj3d1Sa4+neyH53ucSiKJVo6vhVeg==",
+  "dgSpecHash": "Ea6lZ74DEvpWLPRtN7w9gmitcrsK1bx1VAkYZGfqEZZ20dBbgZDphO1hQmPRGbQRFXbtuy232KP/cfiuj84hAQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\emakia\\source\\repos\\Paycompute.Services\\Paycompute.Services.csproj",
+  "projectFilePath": "C:\\Users\\emakia\\source\\repos\\PaycomputeApp\\Paycompute.Services\\Paycompute.Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\emakia\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\emakia\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.1\\microsoft.aspnetcore.cryptography.internal.5.0.1.nupkg.sha512",
