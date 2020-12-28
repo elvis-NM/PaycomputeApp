@@ -30,7 +30,7 @@ namespace Paycompute.Models
         public PaymentMethod PaymentMethod { get; set; }
 
         public StudentLoan StudentLoan { get; set; }
-        public UnionMember UnionMemeber { get; set; }
+        public UnionMember UnionMember { get; set; }
         
         public string Address { get; set; }
        

@@ -64,7 +64,7 @@ namespace Paycompute.Controllers
                     SocialSecurityNo = model.SocialSecurityNo,
                     PaymentMethod = model.PaymentMethod,
                     StudentLoan = model.StudentLoan,
-                    UnionMemeber = model.UnionMemeber,
+                    UnionMember = model.UnionMember,
                     Address = model.Address,
                     City = model.City,
                     Phone = model.Phone,
@@ -114,7 +114,7 @@ namespace Paycompute.Controllers
                 SocialSecurityNo = employee.SocialSecurityNo,
                 PaymentMethod = employee.PaymentMethod,
                 StudentLoan = employee.StudentLoan,
-                UnionMemeber = employee.UnionMemeber,
+                UnionMember = employee.UnionMember,
                 Address = employee.Address,
                 City = employee.City,
                 Phone = employee.Phone,
@@ -148,7 +148,7 @@ namespace Paycompute.Controllers
                 employee.SocialSecurityNo = model.SocialSecurityNo;
                 employee.PaymentMethod = model.PaymentMethod;
                 employee.StudentLoan = model.StudentLoan;
-                employee.UnionMemeber = model.UnionMemeber;
+                employee.UnionMember = model.UnionMember;
                 employee.Address = model.Address;
                 employee.City = model.City;
                 employee.Phone = model.Phone;
@@ -192,7 +192,7 @@ namespace Paycompute.Controllers
                 SocialSecurityNo = employee.SocialSecurityNo,
                 PaymentMethod = employee.PaymentMethod,
                 StudentLoan = employee.StudentLoan,
-                UnionMemeber = employee.UnionMemeber,
+                UnionMember = employee.UnionMember,
                 Address = employee.Address,
                 City = employee.City,
                 Phone = employee.Phone,

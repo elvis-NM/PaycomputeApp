@@ -198,3 +198,5 @@ C:\Users\emakia\source\repos\PaycomputeApp\Paycompute\obj\Debug\netcoreapp3.1\Pa
 C:\Users\emakia\source\repos\PaycomputeApp\Paycompute\obj\Debug\netcoreapp3.1\Paycompute.Views.pdb
 C:\Users\emakia\source\repos\PaycomputeApp\Paycompute\obj\Debug\netcoreapp3.1\Paycompute.csproj.CopyComplete
 C:\Users\emakia\source\repos\PaycomputeApp\Paycompute\obj\Debug\netcoreapp3.1\Paycompute.genruntimeconfig.cache
+C:\Users\emakia\source\repos\PaycomputeApp\Paycompute\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Create.cshtml.g.cs
+C:\Users\emakia\source\repos\PaycomputeApp\Paycompute\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Index.cshtml.g.cs

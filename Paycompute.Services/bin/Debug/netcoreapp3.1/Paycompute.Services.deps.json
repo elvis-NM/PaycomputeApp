@@ -1136,6 +1136,9 @@
         }
       },
       "Paycompute.Entity/1.0.0": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "5.0.1"
+        },
         "runtime": {
           "Paycompute.Entity.dll": {}
         }
@@ -1143,6 +1146,7 @@
       "Paycompute.Persistence/1.0.0": {
         "dependencies": {
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "5.0.1",
+          "Microsoft.EntityFrameworkCore": "5.0.1",
           "Microsoft.EntityFrameworkCore.SqlServer": "5.0.1",
           "Paycompute.Entity": "1.0.0"
         },

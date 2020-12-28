@@ -10,7 +10,7 @@ using Paycompute.Persistance;
 namespace Paycompute.Persistence.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20201227021255_Initial Migration")]
+    [Migration("20201228025255_Initial Migration")]
     partial class InitialMigration
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -268,12 +268,20 @@ namespace Paycompute.Persistence.Migrations
                     b.Property<string>("ImageUrl")
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<string>("LastName")
+                        .IsRequired()
+                        .HasMaxLength(50)
+                        .HasColumnType("nvarchar(50)");
+
                     b.Property<string>("MiddleName")
                         .HasMaxLength(50)
                         .HasColumnType("nvarchar(50)");
 
                     b.Property<int>("PaymentMethod")
                         .HasColumnType("int");
+
+                    b.Property<string>("Phone")
+                        .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("SocialSecurityNo")
                         .IsRequired()
@@ -283,7 +291,7 @@ namespace Paycompute.Persistence.Migrations
                     b.Property<int>("StudentLoan")
                         .HasColumnType("int");
 
-                    b.Property<int>("UnionMemeber")
+                    b.Property<int>("UnionMember")
                         .HasColumnType("int");
 
                     b.Property<string>("Zipcode")

@@ -289,7 +289,7 @@ namespace Paycompute.Persistence.Migrations
                     b.Property<int>("StudentLoan")
                         .HasColumnType("int");
 
-                    b.Property<int>("UnionMemeber")
+                    b.Property<int>("UnionMember")
                         .HasColumnType("int");
 
                     b.Property<string>("Zipcode")

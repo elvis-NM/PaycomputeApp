@@ -52,7 +52,7 @@ namespace Paycompute.Models
         [Display(Name = "Student Loan")]
         public StudentLoan StudentLoan { get; set; }
         [Display(Name = "Union Member")]
-        public UnionMember UnionMemeber { get; set; }
+        public UnionMember UnionMember { get; set; }
         [Required, StringLength(150)]
         public string Address { get; set; }
         [Required, StringLength(50)]

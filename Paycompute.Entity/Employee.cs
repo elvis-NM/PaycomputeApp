@@ -34,7 +34,7 @@ namespace Paycompute.Entity
         public PaymentMethod PaymentMethod { get; set; }
 
         public StudentLoan StudentLoan { get; set; }
-        public UnionMember UnionMemeber { get; set; }
+        public UnionMember UnionMember { get; set; }
         [Required, MaxLength(150)]
         public string Address { get; set; }
         [Required, MaxLength(50)]
